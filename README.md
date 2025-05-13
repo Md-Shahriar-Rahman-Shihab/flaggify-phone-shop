@@ -10,3 +10,13 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+## Documentation Links
+- [React](https://react.dev/)
+- [Vite](https://vite.dev/)
+- [React Router](https://reactrouter.com/)
+- [TailwindCSS](https://tailwindcss.com/)
+- [DaisyUI](https://daisyui.com/)
+- [React Hot Toast](https://react-hot-toast.com/)
+- [TailwindCSS Buttons](https://devdojo.com/tailwindcss/buttons#_)
+- [React Icons](https://react-icons.github.io/react-icons/)
